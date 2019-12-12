@@ -3,6 +3,8 @@ ARTS介绍: ARTS来源于极客时间[《左耳听风》专栏](https://time.gee
 
 本项目用于Authena 团队Arts打卡纪录
 每周由[@daochouwangu](https://github.com/daochouwangu) 指定本周算法题和阅读题.
+
+### 注意事项: 使用Git push 前先更新,有更新记得rebase!!!
 #### 目录结构
 
 按周分目录,每个人在周目录下建立文件夹 name (name为自己的名字) 
@@ -17,7 +19,7 @@ ARTS介绍: ARTS来源于极客时间[《左耳听风》专栏](https://time.gee
 #### Issues
 有好的文章或者技术想推荐给出题人,可以发起Issues
 
-### 2019-12-12 ~ 2019-12-15 第一周
+### 2019-12-12 ~ 2019-12-15 第0周
 
 - 算法题: 
 [反转链表ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
