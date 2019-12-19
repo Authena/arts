@@ -19,7 +19,14 @@ ARTS介绍: ARTS来源于极客时间[《左耳听风》专栏](https://time.gee
 #### Issues
 有好的文章或者技术想推荐给出题人,可以发起Issues
 
-### 2019-12-12 ~ 2019-12-15 第0周
+### 2019-12-19 ~ 2019-12-26 第1周
+
++ 算法题:
+[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)
++ 阅读题:
+[Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+
+### 2019-12-12 ~ 2019-12-18 第0周
 
 - 算法题: 
 [反转链表ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
